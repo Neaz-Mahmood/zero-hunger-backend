@@ -1,0 +1,4 @@
+node_modules/
+tmpnodejsnpm-cache/
+.vscode
+.env
